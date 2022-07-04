@@ -6,4 +6,4 @@
 
 [Visualizar Projeto - codepen](https://codepen.io/marcosanjos/pen/mdxeOxq)
 
-![](https://imgur.com/a/K6YAaWd)
+![](https://i.imgur.com/HVOaqpd.png)
